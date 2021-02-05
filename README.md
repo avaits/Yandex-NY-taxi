@@ -72,7 +72,7 @@
 
 **РЕЗУЛЬТАТ :**
 
-[Kaggle Leaderboard](https://www.kaggle.com/c/yellowtaxi/leaderboard): Score = 16.27.
+[Kaggle Leaderboard](https://www.kaggle.com/c/yellowtaxi/leaderboard): Score = 16.07.
 
 ![](https://github.com/avaits/Yandex-NY-taxi/blob/main/c6w7-1.jpg)
 
